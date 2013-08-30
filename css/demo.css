@@ -1,0 +1,10 @@
+html{
+    background: #EEE;
+}
+body{
+    overflow-y: scroll;
+    background: #EEE;
+}
+.column .btn{
+    margin: 5px;
+}
